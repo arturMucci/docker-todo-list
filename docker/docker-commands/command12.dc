@@ -1,1 +1,1 @@
-docker-compose up -df ./todo-app/docker-compose.yaml
+docker-compose -f ../docker-compose.yaml up -d
